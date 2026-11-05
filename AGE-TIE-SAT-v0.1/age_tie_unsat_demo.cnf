@@ -1,0 +1,10 @@
+c UNSAT: all eight possible 3-literal clauses on variables 1,2,3
+p cnf 3 8
+1 2 3 0
+1 2 -3 0
+1 -2 3 0
+1 -2 -3 0
+-1 2 3 0
+-1 2 -3 0
+-1 -2 3 0
+-1 -2 -3 0
